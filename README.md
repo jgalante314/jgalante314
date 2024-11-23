@@ -17,7 +17,7 @@ OS of choice: PopOS!, Ubuntu, or Debian
 
 
 
-###### ⚠️ DISCLAIMER: This is my personal profile.  Work on all projects is conducted while acting in a private capacity, and not in connection with my employer. They are developed on personal time using personal devices, and do not contain any protected information.
+###### ⚠️ DISCLAIMER: This is my personal profile.  Work on all projects is conducted while acting in a private capacity, and not in connection with my employer. Projects are developed on personal time using personal devices, and do not contain any protected information.
 
 
 <!--
