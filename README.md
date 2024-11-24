@@ -14,7 +14,7 @@ All time favorite fields of mathematics: Dynamical Systems, Differential Equatio
 Main Languages: Python, C/C++
 OS of choice: PopOS!, Ubuntu, or Debian
 IDE of choice: VSCode ( or VSCodium )
-Preferred music while coding: Synthware, e.g. https://www.youtube.com/@LofiGirl
+Preferred music while coding: Synthwave, e.g. https://www.youtube.com/@LofiGirl
 
 ```
 
